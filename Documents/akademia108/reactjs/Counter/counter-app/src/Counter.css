@@ -1,0 +1,22 @@
+.counter {
+    border: 1px solid darkblue;
+    padding: 0px;
+    width: 300px;
+    left: 0;
+    right: 0;
+    margin: 10px auto;
+
+}
+
+span.value {
+    margin-left: 5px;
+    
+}
+
+ input {
+
+    padding: 5px;
+    margin: 10px 0 10px 10px;
+
+}
+
